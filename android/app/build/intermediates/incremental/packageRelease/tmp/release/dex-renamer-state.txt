@@ -1,0 +1,4 @@
+#Fri Jan 15 17:14:51 BRT 2021
+base.0=D\:\\Projetos\\Pokedex\\android\\app\\build\\intermediates\\dex\\release\\mergeDexRelease\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
